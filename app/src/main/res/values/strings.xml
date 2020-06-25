@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LaunchLibraryApp</string>
+    <string name="launch_list_title">Top 10 Launch List</string>
+    <string name="no_network">Check your internet and try again</string>
+    <string name="mission_concluded">mission concluded</string>
+    <string name="search">Search</string>
+    <string name="description">Mission Description :</string>
+    <string name="sample_description">Glonass-M, also known as Uragan-M, are the second generation of Uragan satellite
+        design used for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system
+        comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and
+        design life. Each satellite weighs 1415 kg, is equipped with 12 L-band antennas, and has an operational lifetime
+        of 7 years.
+    </string>
+    <string name="sample_agency_name">Russian Federal Space Agency (ROSCOSMOS)</string>
+    <string name="lbl_agency_name">Agency :</string>
+    <string name="unknown">Unknown</string>
+    <string name="launch_location_not_available">Launch coordinates not available</string>
+</resources>
